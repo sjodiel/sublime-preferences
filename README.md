@@ -1,2 +1,1 @@
-# sublime-preferences
-Sublime Preferences
+# Sublime Preferences
